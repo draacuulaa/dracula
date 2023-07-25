@@ -1,0 +1,44 @@
+html{
+    background-color: rgb(163, 60, 158);
+
+    font-family: cursive;
+}
+
+input{
+    background: rgb(5, 235, 16);
+    color: white;
+    width: 50%;
+    margin: 20px 50% 15px 35%;
+
+
+width: 500px;
+height: 30px;
+font-size: 20px;
+}
+input[type="submit"]{
+    background: rgb(17, 17, 17);
+    color: white;
+    block-size: 1cm;
+
+
+}
+h1{
+    color: rgb(233, 18, 16);
+    font-size: 50px;
+    font-weight: 100px;
+ 
+}
+p{
+    color: rgb(77, 233, 5);
+    font-size: 25px;
+    line-height: 10px;
+    text-align: right;
+    direction: rtl;
+}
+.no{
+    color: blue;
+}
+.x{
+    border: 5px #000 solid;
+    padding-left: 5px;
+}
